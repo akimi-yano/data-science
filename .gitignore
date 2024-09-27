@@ -1,1 +1,4 @@
 .DS_Store
+mykey.py
+.ipynb_checkpoints
+__pycache__
